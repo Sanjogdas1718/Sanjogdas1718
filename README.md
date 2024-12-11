@@ -40,6 +40,7 @@
 ## 📜 Certifications
 - HackerRank Certifications in Java, Python, SQL
 - CyberSecurity Training Certification by EY
+- Complete Blender Creator Learn 3D Modelling for Beginners Certification by Udemy
 
 ## 🎓 Education
 **Bachelor of Technology in Computer Science**
@@ -47,4 +48,3 @@ Siksha 'O' Anusandhan, ITER Bhubaneswar | CGPA: 9.13 | 2020-2024
 
 ## 📬 Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanjog-das-3a6781205/)
-[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)](https://github.com/Sanjogdas1718)
